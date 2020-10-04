@@ -5,7 +5,7 @@ public class StatementsDemo {
 
         // declaration statements
         // person:
-        // name: Rabindra, (String)
+        // name: Bibhu (String)
         // marks: 75 (int)  int vs Integer
 
         String name = "Bibhu"; // name is a variableName whose type is String
